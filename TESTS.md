@@ -9,14 +9,14 @@
 sudo -H pip3 install pytest
 ```
 
-- ## 00 Hello World
-    ### Run command
-    ```
-    pytest assignments/00HelloWorld
-    ```
-
 - ## 01 Operaciones Básicas
     ### Run command
     ```
     pytest assignments/01OperacionesBasicas
+    ```
+
+- ## 02 Área Triángulo
+    ### Run command
+    ```
+    pytest assignments/02AreaTriangulo
     ```
